@@ -5,8 +5,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 ## Project Status
 - **Version**: 1.0.0 (Production), 2.0.0-beta (Development)
 - **Environments**: Production & Development
-- **Student**: [YOUR NAME]
-- **Student ID**: [YOUR ID]
+- **Student**: Suma
+- **Student ID**: [Your ID]
 
 ## Features
 
@@ -22,16 +22,8 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Load balancer integration
 - Scheduled backups
 
-### Development Features (Beta)
--  Docker Compose integration
--  Hot reload enabled
--  Debug mode active
--  Enhanced logging
--  Mock external APIs
+### Beta Features (Experimental)
+- Predictive scaling (not production-ready)
+- Chaos testing (disabled by default)
+- AI-based monitoring (under development)
 
-## Quick Start
-
-### Production Mode
-```bash
-export DEPLOY_ENV=production
-./scripts/deploy.sh
