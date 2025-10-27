@@ -27,3 +27,4 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - Chaos testing (disabled by default)
 - AI-based monitoring (under development)
 
+## FAQ
