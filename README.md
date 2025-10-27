@@ -28,3 +28,4 @@ A comprehensive CI/CD configuration management tool for enterprise deployments.
 - AI-based monitoring (under development)
 
 ## FAQ
+update
